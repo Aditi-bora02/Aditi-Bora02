@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-bora02&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-bora02" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-bora02" alt="aditi-bora02" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/aditi_bora_02" target="blank"><img src="https://img.shields.io/twitter/follow/aditi_bora_02?logo=twitter&style=for-the-badge" alt="aditi_bora_02" /></a> </p>
 
 - 🔭 I’m currently working on **website building**
